@@ -117,7 +117,7 @@ print(s4)
 
 print (solution_separator)
 
-# 9)
+# 8)
 s6 = "The date 5/17/1982 is trickier to get"
 F_date = re.findall(r"\d.\d\d.\d\d\d\d", s6)
 print(F_date)
@@ -141,7 +141,7 @@ print(comp_data)
 
 print (solution_separator)
 
-# 10) Extra Credit:
+#) Extra Credit:
 s8 = "These are some dates: 1/23/2011, 2/1/2006, 12/31/2007, 9/15/1993, 04/23/1797."
 
 # a) Use a regex to collect the dates into a list
